@@ -9,5 +9,6 @@ Once built (open in Visual Studio or MonoDevelop and hit Build) you can run it b
 (Windows)
  `IBC.exe 10` (Same effect, but Windows doesn't require root.)
 
+Valid Values are 1 to 100.
 
 I shouldn't have to mention this, but I will anyway: This obviously requires you to have a screen whos brightness can be controlled by software - IE most Laptops, and almost never Desktops.
