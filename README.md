@@ -1,4 +1,4 @@
-# Multiplatform_Backlight_Changer
+# Multiplatform Backlight Changer
 A simple application that works on both Windows and Linux to change the system backlight level.
 
 Once built (open in Visual Studio or MonoDevelop and hit Build) you can run it by:
